@@ -9,6 +9,7 @@ typer
 tqdm
 joblib
 
+
 # deep learning
 torch
 torchvision
