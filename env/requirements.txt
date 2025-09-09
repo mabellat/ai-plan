@@ -1,0 +1,48 @@
+# core
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+pydantic
+typer
+tqdm
+joblib
+
+# deep learning
+torch
+torchvision
+torchaudio
+
+# NLP & LLMs
+transformers
+sentencepiece
+accelerate
+datasets
+evaluate
+bitsandbytes
+peft
+
+# RAG / Vector
+faiss-cpu
+chromadb
+
+# Agents & Orchestration
+langchain
+langgraph
+openai
+
+# MLOps
+mlflow
+prefect
+dvc
+great-expectations
+
+# testing & quality
+pytest
+mypy
+ruff
+pre-commit
+black
+types-requests
+types-setuptools
